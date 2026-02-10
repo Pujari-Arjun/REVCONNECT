@@ -1,4 +1,4 @@
-package com.revconnect.app;
+package com.revconnect.application;
 
 import com.revconnect.ui.LoginUI;
 

@@ -1,4 +1,4 @@
-package com.revconnect.config;
+package com.revconnect.configuration;
 
 public class DBConfig {
     

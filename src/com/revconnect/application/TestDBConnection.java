@@ -1,4 +1,4 @@
-package com.revconnect.app;
+package com.revconnect.application;
 
 import com.revconnect.util.DBConnectionUtil;
 import java.sql.Connection;

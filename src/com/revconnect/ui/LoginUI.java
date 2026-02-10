@@ -3,7 +3,7 @@ package com.revconnect.ui;
 import com.revconnect.model.User;
 import com.revconnect.model.SecurityQuestion;
 import com.revconnect.service.UserService;
-import com.revconnect.serviceimpl.UserServiceImpl;
+import com.revconnect.serviceimplementation.UserServiceImpl;
 import com.revconnect.repository.SecurityQuestionRepository;
 import com.revconnect.exception.AuthenticationException;
 import com.revconnect.exception.ValidationException;

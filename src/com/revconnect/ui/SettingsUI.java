@@ -6,9 +6,9 @@ import com.revconnect.model.User;
 import com.revconnect.model.Profile;
 import com.revconnect.model.NotificationPreference;
 import com.revconnect.service.UserService;
+import com.revconnect.serviceimplementation.NotificationServiceImpl;
+import com.revconnect.serviceimplementation.UserServiceImpl;
 import com.revconnect.service.NotificationService;
-import com.revconnect.serviceimpl.UserServiceImpl;
-import com.revconnect.serviceimpl.NotificationServiceImpl;
 
 import java.util.Scanner;
 

@@ -1,11 +1,11 @@
-package com.revconnect.serviceimpl;
+package com.revconnect.serviceimplementation;
 
 import com.revconnect.service.MessageService;
 import com.revconnect.model.Message;
 import com.revconnect.model.User;
 import com.revconnect.repository.MessageRepository;
 import com.revconnect.repository.BlockedUserRepository;
-import com.revconnect.config.AppConfig;
+import com.revconnect.configuration.AppConfig;
 import com.revconnect.exception.MessagingException;
 import com.revconnect.exception.ValidationException;
 

@@ -7,7 +7,7 @@ import com.revconnect.model.Post;
 import com.revconnect.model.Comment;
 import com.revconnect.model.PostAnalytics;
 import com.revconnect.service.PostService;
-import com.revconnect.serviceimpl.PostServiceImpl;
+import com.revconnect.serviceimplementation.PostServiceImpl;
 
 import java.time.LocalDateTime;
 import java.time.format.DateTimeFormatter;

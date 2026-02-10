@@ -5,7 +5,7 @@ package com.revconnect.ui;
 import com.revconnect.model.User;
 import com.revconnect.model.Notification;
 import com.revconnect.service.NotificationService;
-import com.revconnect.serviceimpl.NotificationServiceImpl;
+import com.revconnect.serviceimplementation.NotificationServiceImpl;
 
 import java.util.List;
 import java.util.Scanner;

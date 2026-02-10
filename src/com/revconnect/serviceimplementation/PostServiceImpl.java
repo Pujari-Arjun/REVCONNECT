@@ -1,4 +1,4 @@
-package com.revconnect.serviceimpl;
+package com.revconnect.serviceimplementation;
 
 import com.revconnect.service.PostService;
 import com.revconnect.service.NotificationService;
@@ -10,7 +10,7 @@ import com.revconnect.repository.PostRepository;
 import com.revconnect.repository.CommentRepository;
 import com.revconnect.repository.LikeRepository;
 import com.revconnect.repository.ShareRepository;
-import com.revconnect.config.AppConfig;
+import com.revconnect.configuration.AppConfig;
 import com.revconnect.exception.ValidationException;
 
 import java.time.LocalDateTime;

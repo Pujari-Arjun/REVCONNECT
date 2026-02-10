@@ -6,8 +6,8 @@ import com.revconnect.model.User;
 import com.revconnect.model.Message;
 import com.revconnect.service.MessageService;
 import com.revconnect.service.NetworkService;
-import com.revconnect.serviceimpl.MessageServiceImpl;
-import com.revconnect.serviceimpl.NetworkServiceImpl;
+import com.revconnect.serviceimplementation.MessageServiceImpl;
+import com.revconnect.serviceimplementation.NetworkServiceImpl;
 
 import java.util.List;
 import java.util.Scanner;

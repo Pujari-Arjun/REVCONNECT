@@ -1,10 +1,10 @@
 package com.revconnect.util;
 
-import com.revconnect.config.DBConfig;
-
 import java.sql.Connection;
 import java.sql.DriverManager;
 import java.sql.SQLException;
+
+import com.revconnect.configuration.DBConfig;
 
 public class DBConnectionUtil {
 

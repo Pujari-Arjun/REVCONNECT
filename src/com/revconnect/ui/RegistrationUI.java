@@ -7,7 +7,7 @@ import com.revconnect.model.Profile;
 import com.revconnect.model.SecurityQuestion;
 import com.revconnect.model.UserSecurityAnswer;
 import com.revconnect.service.UserService;
-import com.revconnect.serviceimpl.UserServiceImpl;
+import com.revconnect.serviceimplementation.UserServiceImpl;
 import com.revconnect.repository.SecurityQuestionRepository;
 import com.revconnect.util.ValidationUtil;
 import com.revconnect.util.PasswordUtil;

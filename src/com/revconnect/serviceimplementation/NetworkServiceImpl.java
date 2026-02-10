@@ -1,4 +1,4 @@
-package com.revconnect.serviceimpl;
+package com.revconnect.serviceimplementation;
 
 import com.revconnect.service.NetworkService;
 import com.revconnect.service.NotificationService;
